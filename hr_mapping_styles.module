@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HumanitarianResponse Mapping Styles feature.
+ */
+
+include_once('hr_mapping_styles.features.inc');
