@@ -78,8 +78,8 @@ function hr_mapping_styles_openlayers_maps() {
       'geofield_formatter' => 0,
       'openlayers_geojson_picture_this' => 0,
     ),
-    'projection' => '900913',
-    'displayProjection' => '4326',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'humanitarianresponse_default',
       'select' => 'humanitarianresponse_select',
@@ -150,8 +150,8 @@ function hr_mapping_styles_openlayers_maps() {
       'geofield_formatter' => 0,
       'openlayers_geojson_picture_this' => 0,
     ),
-    'projection' => '900913',
-    'displayProjection' => '4326',
+    'projection' => 'EPSG:900913',
+    'displayProjection' => 'EPSG:4326',
     'styles' => array(
       'default' => 'humanitarianresponse_default',
       'select' => 'humanitarianresponse_select',
