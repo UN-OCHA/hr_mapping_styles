@@ -3,6 +3,7 @@ description = Humanitarianresponse mapping styles and default maps
 core = 7.x
 package = Humanitarianresponse
 php = 5.2.4
+dependencies[] = ctools
 dependencies[] = features
 dependencies[] = humanitarianresponse_mapping
 dependencies[] = openlayers

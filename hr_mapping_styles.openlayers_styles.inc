@@ -18,10 +18,10 @@ function hr_mapping_styles_openlayers_styles() {
   $openlayers_styles->description = 'Humanitarianresponse Default Style';
   $openlayers_styles->data = array(
     'pointRadius' => 6,
-    'fillColor' => '#D23646',
-    'strokeColor' => '#E6E7E8',
+    'fillColor' => '#B82938',
+    'strokeColor' => '#FFFFFF',
     'strokeWidth' => 1,
-    'fillOpacity' => 0.5,
+    'fillOpacity' => 0.25,
     'strokeOpacity' => 1,
     'strokeLinecap' => 'round',
     'strokeDashstyle' => 'solid',
